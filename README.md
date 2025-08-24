@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Ezaz Mahmud</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ezaz Mahmud</h1>
+<h3 align="center">A passionate Data Science & Machine Learning Enthusiast from Bangladesh.</h3>
 
-<p align="center">
-  <img src="https://media.wired.com/photos/669846f926dff233a54ff10c/1:1/w_2560,c_limit/AI-Coding-Agents-Fast-Forward-Business.jpg" alt="AI-powered coding illustration" width="800"/>
-</p>
+- I’m currently learning **Data Science,Machine Learning & AI**
 
- 
+- Ask me about **Python, SQL, Data Science, Machine Learning**
 
-Reach me : mahmudezazerror@gmail.com
+- Reach me **mahmudezazerror@gmail.com**
+
+- Fun fact **I believe data never lies, but it always tells stories**
 
 
 <p align="left">

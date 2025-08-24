@@ -1,7 +1,13 @@
 <h1 align="center">Hi there, I'm Ezaz Mahmud</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/30047522508653488/"
-Reach me **mahmudezazerror@gmail.com**
+
+<p align="center">
+  <img src="https://media.wired.com/photos/669846f926dff233a54ff10c/1:1/w_2560,c_limit/AI-Coding-Agents-Fast-Forward-Business.jpg" alt="AI-powered coding illustration" width="800"/>
+</p>
+
+ 
+
+Reach me : mahmudezazerror@gmail.com
 
 
 <p align="left">
